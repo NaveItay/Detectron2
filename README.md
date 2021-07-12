@@ -2,10 +2,10 @@
 
 ### Tasks:
 
-1. Find online examples of detection COCO data-set (anything) with sky in the images.
-2. Use Detectron2 by Facebook to run inference on the images or videos you find, with an existing Detectron2 model.
-3. Create a script to manipulate the COCO data-set to the new COCO data-set when you take out thesky - doing it using another model to detect the skyline automatically.
-4. Present the data-set (the images along with the annotations) on screen
+1. Data-set
+2. Panoptic Segmentation
+3. Manipulate the COCO data-set to the new COCO data-set without sky
+4. Present the new data-set
 
 <p>
 <br />
@@ -14,14 +14,30 @@
 
 # 
 ###### Data-set
-> Video from a dashboard camera in San Francisco, California.
+> - Video from a dashboard camera in San Francisco, California.
 > 
 > Video resolution: 1280x720. 
 > 
 > Frame rate: 30 fps.
 > 
 > ![alt text](/github_images/youtube.png)
+> 
+> - Dividing the video into frames
+> ```
+> save_count = 120    # save every 4 secs, 30fps vid
+>     while success:
 >
+>        # Check if frame need to be saved
+>        if frame_count % save_count == 0:
+>            print("Save frame " + str(frame_count) + " as " + str(image_name) + ".jpg")
+>            # Save frame to image file
+>            cv2.imwrite(output_dir_path + str(image_name) + '.jpg', image)
+>            # Next image name
+>           image_name += 1
+> ```
+>
+>
+
 
 ### References:
 
