@@ -15,10 +15,12 @@
 # 
 ###### Data-set
 > I downloaded a video from YouTube from a dashboard camera in San Francisco, California.
+> 
 > Video resolution: 1280x720. 
+> 
 > Frame rate: 30 fps.
 > 
-> ![alt text](/github_images/Schematic.png)
+> ![alt text](/github_images/youtube.png)
 >
 
 ### References:
