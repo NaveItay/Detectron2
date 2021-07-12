@@ -5,7 +5,7 @@ import json
 
 class Helper:
 
-    # Sky filter
+    # Sky filter with Panoptic Segmentation output ColorMode
     #                             [{h_min},{h_max},{s_min},{s_max},{v_min},{v_max}]
     sky_hsv_color_mask = np.array([102, 107, 116, 151, 186, 205])
 
