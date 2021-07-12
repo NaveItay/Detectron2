@@ -7,7 +7,19 @@
 3. Create a script to manipulate the COCO data-set to the new COCO data-set when you take out thesky - doing it using another model to detect the skyline automatically.
 4. Present the data-set (the images along with the annotations) on screen
 
+<p>
+<br />
+<br />
+</p>
 
+# 
+###### Data-set
+> I downloaded a video from YouTube from a dashboard camera in San Francisco, California.
+> Video resolution: 1280x720. 
+> Frame rate: 30 fps.
+> 
+> ![alt text](/github_images/Schematic.png)
+>
 
 ### References:
 
