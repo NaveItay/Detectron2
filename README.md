@@ -52,7 +52,7 @@
 > 
 > - Video
 >
-> [![title](/github_images/youtube_symbol.png "ChameleonVISION - video assistant referee system for beach volleyball games")](https://www.youtube.com/watch?v=UwBT0xUOck4&ab_channel=ItayNave)
+> [![title](/github_images/youtube_symbol.png "ChameleonVISION - video assistant referee system for beach volleyball games")](https://youtu.be/ZWi2Loa3oFI)
 > 
 > 
 
