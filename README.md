@@ -59,7 +59,7 @@
 ###### Task 3. Manipulate the COCO data-set to the new COCO data-set without sky
 > - Logic diagram
 > 
-> ![alt text](/github_images/Panoptic_Segmentation/example1.jpg)
+> ![alt text](/github_images/diagrams/logic_diagram.png)
 > 
 
 
