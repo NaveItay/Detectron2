@@ -110,12 +110,9 @@
 >
 > - Result
 >
-> <span><img width="300" height="600" alt="image" src="/github_images/compare/example1.jpg"/></span>
+> <span><img width="700" height="350" alt="image" src="/github_images/compare/example1.jpg"/></span>
 >
-> ![alt text](/github_images/compare/example1.jpg)
-> 
-> ![alt text](/github_images/compare/example2.jpg)
->
+> <span><img width="700" height="350" alt="image" src="/github_images/compare/example2.jpg"/></span>
 >
 
 <p>
