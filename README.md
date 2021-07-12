@@ -13,7 +13,7 @@
 </p>
 
 # 
-###### Data-set
+###### 1. Data-set
 > - Video from a dashboard camera in San Francisco, California.
 > 
 > Video resolution: 1280x720. 
@@ -36,7 +36,20 @@
 >           image_name += 1
 > ```
 >
->
+
+
+###### 2. Panoptic Segmentation
+> - Images
+> 
+> ![alt text](github_images//Panoptic Segmentation/example1.jpg)
+> 
+> ![alt text](github_images//Panoptic Segmentation/example2.jpg)
+> 
+> - Video
+> 
+> 
+> 
+> 
 
 
 ### References:
