@@ -82,27 +82,28 @@
 >   img_openCV_format = helper.to_opencv_format(img_detect_sky)
 >   ```
 >
->  - Sky filter by Panoptic Segmentation ColorMode
+>   - Sky filter by Panoptic Segmentation ColorMode
 >   ```
 >   mask, **highest_sky_pixel** = helper.sky_filter(img_openCV_format)
 >   ```
 >
->  - Instance segmentation
+>   - Instance segmentation
 >   ```
 >   img_segmentation, boxes = IS_detector.onImage(path)
 >   ```
 >
-> - Remove sky
+>   - Remove sky
 >   ```
 >   img_crop = helper.crop_image(img_segmentation, highest_sky_pixel)
 >   ```
 >
-> - Output fix annotations
+>   - Output fix annotations
 >   ```
 >   helper.output_yolo_Annotations(boxes, highest_sky_pixel, weight, height, counter)
->   ```
+>   ![alt text](/github_images/diagrams/annotations_after_crop.jpeg)
+>   ``` 
 >
-> - Save new dataset - no_sky
+>   - Save new dataset - no_sky
 >   ```
 >   cv2.imwrite(os.path.join(dataset_no_sky_path, str(counter) + '.jpg'), img_crop)
 >   ```
