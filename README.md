@@ -52,9 +52,9 @@
 > 
 > - Video
 > 
+> ![alt text](/github_images/youtube_symbol.png)
 > 
-> 
-> 
+
 
 
 ### References:
