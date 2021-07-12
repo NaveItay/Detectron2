@@ -103,7 +103,7 @@
 > ![alt text](/github_images/diagrams/annotations_after_crop.jpeg)
 >   ``` 
 >
->   - Save new dataset - no_sky
+>   - Save new dataset - (no sky)
 >   ```
 >   cv2.imwrite(os.path.join(dataset_no_sky_path, str(counter) + '.jpg'), img_crop)
 >   ```
