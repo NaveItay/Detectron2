@@ -69,7 +69,17 @@
 > - Logic diagram
 > 
 > ![alt text](/github_images/diagrams/logic_diagram.png)
-> 
+>
+> - Code
+>
+>   - detect sky with Panoptic Segmentation
+>   ```
+>   img_detect_sky = PS_detector.onImage(path)
+>   ```
+>
+>
+>
+>
 
 <p>
 <br />
