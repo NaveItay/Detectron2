@@ -108,42 +108,11 @@
 >   cv2.imwrite(os.path.join(dataset_no_sky_path, str(counter) + '.jpg'), img_crop)
 >   ```
 >
+> - Result
+> ![alt text](/github_images/compare/example1.jpg)
+> ![alt text](/github_images/compare/example2.jpg)
 >
 >
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
-
-
-
-
-
-
-
-
 
 <p>
 <br />
