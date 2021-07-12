@@ -116,9 +116,16 @@
 >
 > - Result
 >
-> <span><img width="700" height="400" alt="image" src="/github_images/compare/example1.jpg"/></span>
+> <span><img width="700" height="300" alt="image" src="/github_images/compare/example1.jpg"/></span> <span><img width="700" height="300" alt="image" src="/github_images/compare/example2.jpg"/></span>
+> 
+> <span><img width="700" height="400" alt="image" src="/github_images/compare/example3.jpg"/></span>
+> 
 >
-> <span><img width="700" height="400" alt="image" src="/github_images/compare/example2.jpg"/></span>
+> 
+>
+>
+>
+>
 >
 
 <p>
