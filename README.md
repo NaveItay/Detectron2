@@ -27,7 +27,7 @@
 > 
 > - Dividing the video into frames.
 > ```
-> save_count = 120    # save every 4 secs, 30fps vid
+> save_count = 120    # save frame every 4 secs, 30fps vid
 >     while success:
 >
 >        # Check if frame need to be saved
