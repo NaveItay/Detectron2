@@ -123,7 +123,7 @@
 
 ###### Task 4. Present the new data-set
 >
-> - As we can see, the script gets the image-data with the sky and takes out the data-set without the sky.
+> - As we can see, the script gets the images-data with the sky and takes out the data-set without the sky.
 > * Output annotations in YOLO and COCO format.
 > 
 
