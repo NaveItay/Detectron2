@@ -41,9 +41,9 @@
 ###### 2. Panoptic Segmentation
 > - Images
 > 
->   ![alt text](/github_images//Panoptic Segmentation/example1.jpg)
+>   ![alt text](/github_images/Panoptic Segmentation/example1.jpg)
 > 
->   ![alt text](/github_images//Panoptic Segmentation/example2.jpg)
+>   ![alt text](/github_images/Panoptic Segmentation/example2.jpg)
 > 
 > - Video
 > 
