@@ -4,7 +4,7 @@
 
 ### Tasks:
 
-1. Data-set
+1. Images Data
 2. Panoptic Segmentation
 3. Manipulate the COCO data-set to the new COCO data-set without sky
 4. Present the new data-set
