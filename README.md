@@ -42,6 +42,10 @@
 > ![title](/github_images/video_to_frames.png) 
 > 
 
+<p>
+<br />
+<br />
+</p>
 
 ###### Task 2. Panoptic Segmentation
 > - Images
@@ -56,13 +60,21 @@
 > 
 > 
 
+<p>
+<br />
+<br />
+</p>
+
 ###### Task 3. Manipulate the COCO data-set to the new COCO data-set without sky
 > - Logic diagram
 > 
 > ![alt text](/github_images/diagrams/logic_diagram.png)
 > 
 
-
+<p>
+<br />
+<br />
+</p>
 
 ### References:
 
