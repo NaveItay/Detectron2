@@ -97,12 +97,17 @@
 >   img_crop = helper.crop_image(img_segmentation, highest_sky_pixel)
 >   ```
 >
->   - Output fix annotations
+>   - Output new annotations (YOLO format - txt)
 >   ```
 >   helper.output_yolo_Annotations(boxes, highest_sky_pixel, weight, height, counter)
 >   ``` 
 > ![alt text](/github_images/diagrams/annotations_after_crop.jpeg)
 >
+>
+>   - Output annotations (COCO format - JSON)
+>   ```
+>   helper.convert_objects_to_coco_structure(str(counter), weight_crop, height_crop)
+>   ```
 >
 >   - Save new dataset (no sky)
 >   ```
