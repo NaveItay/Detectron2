@@ -145,6 +145,8 @@
 > - As we can see, the script gets the images-data with the sky and takes out the data-set without the sky.
 > * Output annotations in YOLO and COCO format.
 > 
+> ![alt text](/github_images/Deep_learning_modules_format.PNG)
+> 
 
 <p>
 <br />
