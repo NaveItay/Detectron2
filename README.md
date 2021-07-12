@@ -15,7 +15,7 @@
 </p>
 
 # 
-###### Task 1. Data-set
+###### Task 1. Images Data
 > - Video from a dashboard camera in San Francisco, California.
 > 
 > Video resolution: 1280x720. 
