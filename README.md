@@ -1,5 +1,7 @@
 # Detectron2 Assignment
 
+![title](/github_images/diagrams/script_description.PNG)
+
 ### Tasks:
 
 1. Data-set
