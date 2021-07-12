@@ -100,8 +100,9 @@
 >   - Output fix annotations
 >   ```
 >   helper.output_yolo_Annotations(boxes, highest_sky_pixel, weight, height, counter)
->   ![alt text](/github_images/diagrams/annotations_after_crop.jpeg)
 >   ``` 
+> ![alt text](/github_images/diagrams/annotations_after_crop.jpeg)
+>
 >
 >   - Save new dataset (no sky)
 >   ```
