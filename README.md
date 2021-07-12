@@ -19,8 +19,10 @@
 > Video resolution: 1280x720. 
 > 
 > Frame rate: 30 fps.
-> 
-> [Source:](https://www.youtube.com/watch?v=O1g4Kd9irj4&t=42s&ab_channel=DashCamTours)
+>
+> ![title](/github_images/youtube.png)
+>
+> [Source](https://www.youtube.com/watch?v=O1g4Kd9irj4&t=42s&ab_channel=DashCamTours)
 >  
 > 
 > - Dividing the video into frames
