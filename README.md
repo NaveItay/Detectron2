@@ -51,10 +51,10 @@
 > ![alt text](/github_images/Panoptic_Segmentation/example2.jpg)
 > 
 > - Video
+>
+> [![title](/github_images/youtube_symbol.png "ChameleonVISION - video assistant referee system for beach volleyball games")](https://www.youtube.com/watch?v=UwBT0xUOck4&ab_channel=ItayNave)
 > 
-> ![alt text](/github_images/youtube_symbol.png)
 > 
-
 
 
 ### References:
