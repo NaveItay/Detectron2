@@ -72,14 +72,77 @@
 >
 > - Code
 >
->   - detect sky with Panoptic Segmentation
+>   - Detect sky with Panoptic Segmentation
 >   ```
 >   img_detect_sky = PS_detector.onImage(path)
 >   ```
 >
+>   - Convert to openCV format
+>   ```
+>   img_openCV_format = helper.to_opencv_format(img_detect_sky)
+>   ```
+>
+>  - Sky filter by Panoptic Segmentation ColorMode
+>   ```
+>   mask, **highest_sky_pixel** = helper.sky_filter(img_openCV_format)
+>   ```
+>
+>  - Instance segmentation
+>   ```
+>   img_segmentation, boxes = IS_detector.onImage(path)
+>   ```
+>
+> - Remove sky
+>   ```
+>   img_crop = helper.crop_image(img_segmentation, highest_sky_pixel)
+>   ```
+>
+> - Output fix annotations
+>   ```
+>   helper.output_yolo_Annotations(boxes, highest_sky_pixel, weight, height, counter)
+>   ```
+>
+> - Save new dataset - no_sky
+>   ```
+>   cv2.imwrite(os.path.join(dataset_no_sky_path, str(counter) + '.jpg'), img_crop)
+>   ```
 >
 >
 >
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+
+
+
+
+
+
+
+
 
 <p>
 <br />
