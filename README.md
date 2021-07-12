@@ -25,7 +25,7 @@
 > [Source](https://www.youtube.com/watch?v=O1g4Kd9irj4&t=42s&ab_channel=DashCamTours)
 >  
 > 
-> - Dividing the video into frames
+> - Dividing the video into frames to make the data-set
 > ```
 > save_count = 120    # save every 4 secs, 30fps vid
 >     while success:
