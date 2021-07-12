@@ -14,7 +14,7 @@
 
 # 
 ###### Data-set
-> I downloaded a video from YouTube from a dashboard camera in San Francisco, California.
+> Video from a dashboard camera in San Francisco, California.
 > 
 > Video resolution: 1280x720. 
 > 
