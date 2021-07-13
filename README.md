@@ -154,17 +154,17 @@
 </p>
 
 ### References:
-
-- Data-set
-  https://www.youtube.com/watch?v=O1g4Kd9irj4&t=41s&ab_channel=DashCamTours
-- TheCodingBug Channel
-  https://www.youtube.com/channel/UCcNgapXcZkyW10FIOohZ1uA
-- BoundingBox Annotations - YOLO and COCO format 
-  https://www.youtube.com/watch?v=qESxRSqsAGw&ab_channel=PrabhjotGosal
-- Facebook Open Source Channel
-  https://www.youtube.com/watch?v=eUSgtfK4ivk&ab_channel=FacebookOpenSource
-- API Documentation » detectron2.structures 
-  https://detectron2.readthedocs.io/en/latest/modules/structures.html#detectron2.structures.Boxes
-- Annolid on Detectron2 Tutorial 
-  https://colab.research.google.com/drive/1tv2t7AeUYmXjWC6TrgPNNA23j7ph4zF6
+> 
+> - Data-set
+>   https://www.youtube.com/watch?v=O1g4Kd9irj4&t=41s&ab_channel=DashCamTours
+> - TheCodingBug Channel
+>   https://www.youtube.com/channel/UCcNgapXcZkyW10FIOohZ1uA
+> - BoundingBox Annotations - YOLO and COCO format 
+>   https://www.youtube.com/watch?v=qESxRSqsAGw&ab_channel=PrabhjotGosal
+> - Facebook Open Source Channel
+>   https://www.youtube.com/watch?v=eUSgtfK4ivk&ab_channel=FacebookOpenSource
+> - API Documentation » detectron2.structures 
+>   https://detectron2.readthedocs.io/en/latest/modules/structures.html#detectron2.structures.Boxes
+> - Annolid on Detectron2 Tutorial 
+>   https://colab.research.google.com/drive/1tv2t7AeUYmXjWC6TrgPNNA23j7ph4zF6
   
